@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Dinaben/assets/blob/main/banner.png" alt="Dina Bennett">
-</div>
+
 
 # Dina Bennett
 
